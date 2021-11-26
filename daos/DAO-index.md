@@ -22,7 +22,7 @@
 
 
 
-《定义 D、A、O》：这个组织，或称为 DAO，是用来协调人类活动的工具；超越组织，走向有机体。——Philippe Honigman
+[《定义 D、A、O》](./104定义DAO.md)：这个组织，或称为 DAO，是用来协调人类活动的工具；超越组织，走向有机体。——Philippe Honigman
 
 
 
