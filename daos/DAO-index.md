@@ -176,7 +176,7 @@
 
 
 
-《宪法 DAO》：伟大的去中心化链上实验。——by Kate Irwin
+[《宪法 DAO》](./402宪法DAO.md)：伟大的去中心化链上实验。——by Kate Irwin
 
 
 
